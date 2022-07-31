@@ -1,0 +1,6 @@
+.DS_Store
+datasets/*
+*/nohup.out
+*/__pycache__/*
+*.pyc
+*.out

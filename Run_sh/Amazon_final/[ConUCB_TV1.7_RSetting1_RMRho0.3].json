@@ -1,0 +1,11 @@
+{
+    "fn":"../../datasets/Amazon_final",
+    "alg":"ConUCB",
+    "staU":0,
+    "endU":999,
+    "TV":1.7,
+
+    "RMRho":0.3,
+    "RSetting":1,
+    "blackList":"Kt_stat_[ConUCB_TV1.7].json"
+}

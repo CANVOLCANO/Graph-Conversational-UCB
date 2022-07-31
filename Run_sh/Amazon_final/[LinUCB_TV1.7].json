@@ -1,0 +1,7 @@
+{
+    "fn":"../../datasets/Amazon_final",
+    "alg":"LinUCB",
+    "staU":0,
+    "endU":999,
+    "TV":1.7
+}

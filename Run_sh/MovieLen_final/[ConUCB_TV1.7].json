@@ -1,0 +1,7 @@
+{
+    "fn":"../../datasets/MovieLen_final",
+    "alg":"ConUCB",
+    "staU":0,
+    "endU":1000,
+    "TV":1.7
+}

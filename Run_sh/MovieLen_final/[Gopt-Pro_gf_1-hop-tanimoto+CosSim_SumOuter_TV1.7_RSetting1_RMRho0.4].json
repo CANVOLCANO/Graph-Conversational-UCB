@@ -1,0 +1,16 @@
+{
+    "fn":"../../datasets/MovieLen_final",
+    "alg":"GraConUCB",
+    "staU":0,
+    "endU":1000,
+    "attrPolicy":"Gopt-Pro",
+    "GF":"Y",
+    "similarity":"hop-tanimoto+cos",
+    "k":1,
+    "useSumOuter":"Y",
+    "TV":1.7,
+
+    "RMRho":0.4,
+    "RSetting":1,
+    "blackList":"Kt_stat_[Gopt-Pro_gfN_1-hop-tanimoto+cos_SumOuter_0.15C_0.5CosGamma_TV1.7].json"
+}
